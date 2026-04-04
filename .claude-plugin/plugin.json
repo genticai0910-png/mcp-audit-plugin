@@ -1,0 +1,11 @@
+{
+  "name": "mcp-audit",
+  "version": "1.0.0",
+  "description": "Audit MCP server configurations for performance issues — detect cache-busting tool ordering, stale connections, duplicate tools, and context bloat",
+  "author": "Gentic AI",
+  "homepage": "https://gentic-n8n.deals",
+  "commands": "commands",
+  "skills": "skills",
+  "agents": "agents",
+  "hooks": "hooks"
+}
