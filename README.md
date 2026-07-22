@@ -26,7 +26,7 @@ This plugin audits your entire MCP setup and catches this and other performance 
 claude plugins install mcp-audit
 
 # Or clone manually
-git clone https://github.com/genticai/mcp-audit-plugin ~/.claude/plugins/installed/mcp-audit
+git clone https://github.com/gabeacosta/mcp-audit-plugin ~/.claude/plugins/installed/mcp-audit
 ```
 
 ## Usage
